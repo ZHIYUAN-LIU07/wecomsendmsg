@@ -1,0 +1,15 @@
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/SendImageBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/RestBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/SendTextBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/WeComSendBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/util/Base64Util.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/SendNewsBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/FinalBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/api/SendMsgApi.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/SendMarkdownBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/SendwecommsgApplication.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/BodyToUrlBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/ImageTextBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/util/HttpUtil.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/bean/FileBean.java
+/Users/liuzhiyuan/Documents/SoftWare/JetBrains/ideaWork/sendwecommsg/src/main/java/com/wecom/sendwecommsg/service/SendMsgService.java

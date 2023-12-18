@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wecom.sendwecommsg.SendwecommsgApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.483 s - in com.wecom.sendwecommsg.SendwecommsgApplicationTests

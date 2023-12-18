@@ -1,0 +1,15 @@
+com/wecom/sendwecommsg/bean/WeComSendBean.class
+com/wecom/sendwecommsg/api/SendMsgApi.class
+com/wecom/sendwecommsg/bean/SendMarkdownBean.class
+com/wecom/sendwecommsg/bean/RestBean.class
+com/wecom/sendwecommsg/bean/FileBean.class
+com/wecom/sendwecommsg/util/HttpUtil.class
+com/wecom/sendwecommsg/bean/BodyToUrlBean.class
+com/wecom/sendwecommsg/bean/SendImageBean.class
+com/wecom/sendwecommsg/bean/ImageTextBean.class
+com/wecom/sendwecommsg/bean/FinalBean.class
+com/wecom/sendwecommsg/util/Base64Util.class
+com/wecom/sendwecommsg/SendwecommsgApplication.class
+com/wecom/sendwecommsg/bean/SendNewsBean.class
+com/wecom/sendwecommsg/service/SendMsgService.class
+com/wecom/sendwecommsg/bean/SendTextBean.class
